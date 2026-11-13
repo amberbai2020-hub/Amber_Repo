@@ -62,6 +62,8 @@ python -m app.rps
 
  ## Testing
 
+ #We run tests to make sure that our code is working
+
  To run tests:
 
 ```sh
