@@ -12,7 +12,7 @@ Install python version 3.x (for example using Anaconda)
 #Always need to confirm before running the project
 
 ```sh
-cd ~/Download/RPS-Game
+cd ~/Download/Amber_Repo
 ```
 
 3.Create a new Anaconda virtual environment called "rps-env" (first time only):
