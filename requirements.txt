@@ -1,0 +1,8 @@
+#Used to test our program
+
+pytest
+
+#Might need these for bonus later
+
+pandas
+plotly
