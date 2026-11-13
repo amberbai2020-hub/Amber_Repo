@@ -6,3 +6,4 @@ pytest
 
 pandas
 plotly
+python-dotenv

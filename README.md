@@ -6,13 +6,13 @@ Install python version 3.x (for example using Anaconda)
 
 ## Instructions
 
-1. Clone [the repo](https://github.com/amberbai2020-hub/RPS-Game.git) from GitHub
+1. Clone [the repo](https://github.com/amberbai2020-hub/Amber_Repo.git) from GitHub
 
 2. Navigate to the local repo from the command line
 #Always need to confirm before running the project
 
 ```sh
-cd ~/Download/RPS-Game
+cd ~/Download/Amber_Repo
 ```
 
 3.Create a new Anaconda virtual environment called "rps-env" (first time only):
@@ -75,3 +75,16 @@ pytest
 #pytest package will find all test files in the directory, and all test functions within the file and run them all
 
 #Refactoring: When we reorgnize the code but the functionality doesn't change
+
+# Alpha Vantage Stock Data
+
+## Prerequisite
+
+1. Clone [the repo](https://github.com/amberbai2020-hub/RPS-Game.git) from GitHub
+
+2. Navigate to the local repo from the command line
+#Always need to confirm before running the project
+
+```sh
+cd ~/Download/RPS-Game
+```
