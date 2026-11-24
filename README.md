@@ -88,7 +88,7 @@ The instructions below overlap with RPS game instructions, so depending on your 
 #Always need to confirm before running the project
 
 ```sh
-cd ~/Download/Amber_Repo
+cd ~/Downloads/Amber_Repo
 ```
 
 3. Access API Key: This project requires you to obtain an Alpha Vantage API key, which you can get a premium version by using the [form](https://www.alphavantage.co/support/#api-key) or shared by the professor.
