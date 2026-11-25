@@ -150,3 +150,28 @@ To run tests:
 pytest
 
 ```
+# Web App
+## Usage
+
+### Command Line App
+
+### Web App
+
+Run the web app (then view in the browser at http://localhost:5000/):
+
+```sh
+# if we have the FLASK_APP=web_app env var in the ".env" file:
+flask run
+
+# Mac OS:
+FLASK_APP=web_app flask run
+
+```
+
+#To stop the local web server while it is running, press "control + c" from the terminal.
+
+HTML Notes:
+- Head = Meta data about the page, not as important compareed to the body section
+- Body = Comprises what you see in the browser
+- <a> is the hyperlink
+- href tells you where the link is supposed to take you

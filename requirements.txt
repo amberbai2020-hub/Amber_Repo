@@ -7,3 +7,13 @@ pytest
 pandas
 plotly
 python-dotenv
+
+# web app:
+flask
+
+#Allow web appliction building in Python, but not the only one. Light-weight and customizable, a micro-framework that's very customizable
+
+#@app.route("/")
+
+##Defining a new route for the web application, meaning a path we can visit in the browser,
+##which, when visited, will trigger the variable decorated in the function.
