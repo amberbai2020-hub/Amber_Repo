@@ -46,4 +46,23 @@
 
     </script>
 
+<h3>Stock Prices</h3>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">Date</th>
+            <th scope="col">Adjusted Close</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for row in data %}
+        <tr>
+            <td>{{ row["timestamp"] }}</td>
+            <td>{{ row["adjusted_close"] }}</td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
+
 {% endblock %}
