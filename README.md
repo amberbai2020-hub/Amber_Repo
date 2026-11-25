@@ -169,3 +169,9 @@ FLASK_APP=web_app flask run
 ```
 
 #To stop the local web server while it is running, press "control + c" from the terminal.
+
+HTML Notes:
+- Head = Meta data about the page, not as important compareed to the body section
+- Body = Comprises what you see in the browser
+- <a> is the hyperlink
+- href tells you where the link is supposed to take you

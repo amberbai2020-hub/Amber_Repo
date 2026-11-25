@@ -4,6 +4,10 @@ from flask import Blueprint, request, render_template
 
 home_routes = Blueprint("home_routes", __name__)
 
+#Each route function can only have one return
+#render_template look into a unique template directory and fetch the display page
+#To enable changes in the template, stop and restart the server
+
 @home_routes.route("/")
 @home_routes.route("/home")
 def index():

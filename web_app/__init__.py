@@ -17,5 +17,9 @@ def create_app():
     #app.register_blueprint(weather_routes)
     return app
 
+#Import commandline logic from the commandline file into the web application interface
+#Route: Tells the web application what to do when someone visits a certain URL in the browser, denoted by the route decorators
+
 if __name__ == "__main__":
     my_app = create_app()
+    my_app.run(debug=True)
