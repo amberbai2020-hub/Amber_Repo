@@ -159,6 +159,9 @@ pytest
 
 Run the web app (then view in the browser at http://localhost:5000/):
 
+#also tell flask where our web app is defined:
+FLASK_APP=web_app
+
 ```sh
 # if we have the FLASK_APP=web_app env var in the ".env" file:
 flask run
