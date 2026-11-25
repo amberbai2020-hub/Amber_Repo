@@ -30,3 +30,5 @@ def results():
         computer_choice=computer_choice,
         outcome=outcome
     )
+
+#Take user form data, then deliver a specific result
